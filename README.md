@@ -37,7 +37,7 @@ newFoo.fireZero();
 newFoo.fireOne();
 newFoo.fireZero();
 
-// not event close to the pattern, will not fire callback
+// not even close to the pattern, will not fire the callback
 newFoo.fireOne();
 newFoo.fireOne();
 newFoo.fireOne();
