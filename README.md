@@ -2,7 +2,7 @@
 Invokes a function when it recognizes a pattern of other functions invoking using a Neural Network.
 
 ##Use cases
-- Fire a function when your code is exhibiting a certain behavior. The pattern of functions invoked only needs to be similiar to the network is trained on.
+- Fire a function when your code is exhibiting a certain behavior. The pattern of functions invoked only needs to be similiar to the pattern the network is trained on.
 - Tie into an app and train it to detect when a user may going outside the 'happy path'. Use the callback to display some UI to guide them in the right direction.
 
 
